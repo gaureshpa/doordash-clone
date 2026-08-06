@@ -80,7 +80,7 @@
 .hero {
     width: 100%;
     height: 650px;
-    background: url("../images/hero.png") center center / cover no-repeat;
+    background: url("https://img.cdn4dd.com/cdn-cgi/image/fit=cover,width=1440,height=648,format=auto,quality=60/https://cdn.doordash.com/managed/consumer/seo/home/hero_v3/hero_desktop.png") center center / cover no-repeat;
     position: relative;
     overflow: hidden;
     display: flex;
@@ -118,13 +118,12 @@
 
 .logo-text {
     line-height: 0;
-    margin-left: 12px;;
+    margin-left: 12px;
 }
 
 .hero-heading {
     display: flex;
     justify-content: center;
-    margin: -24px;
 }
 
 h1 {
@@ -139,10 +138,6 @@ h1 {
     text-transform: none;
     margin: 0px;
     padding: 0px;
-    margin-block-start: 0.67em;
-    margin-block-end: 0.67em;
-    margin-inline-start: 0px;
-    margin-inline-start: 0px;
     font-size: 40px;
 }
 
@@ -327,7 +322,7 @@ input[type="text"] {
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 40px;
+    height: 32px;
     padding-left: 24px;
 }
 
